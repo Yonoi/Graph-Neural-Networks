@@ -36,3 +36,34 @@ The past week on GraphML arXiv: Lots and lots of graph ML for drug discovery pap
 - [Learning to Solve Travelling Salesman Problem with Hardness-adaptive Curriculum](https://arxiv.org/abs/2204.03236) ft. Wenwu Zhu
 - [Principled inference of hyperedges and overlapping communities in hypergraphs](https://arxiv.org/abs/2204.05646)
 - [Graph Enhanced BERT for Query Understanding](https://arxiv.org/abs/2204.06522) ft. Jilian Tang
+
+
+### **April 4**
+**Fresh Picks from Arxiv**
+The past week on GraphML arXiv: Hypergraph NNs, GNNs are dynamic programmers, latent graph learning, 3D equivariant molecule generation, and a new GNN library for Keras. 
+
+△ Hypergraph Neural Networks:
+- [Message Passing Neural Networks for Hypergraphs](https://arxiv.org/abs/2203.16995)
+- [Hypergraph Convolutional Networks via Equivalency between Hypergraphs and Undirected Graphs](https://arxiv.org/abs/2203.16939) ft. Yu Rong.
+- [Preventing Over-Smoothing for Hypergraph Neural Networks](https://arxiv.org/abs/2203.17159)
+
+⅀ Theory:
+- [Graph Neural Networks are Dynamic Programmers](https://arxiv.org/abs/2203.15544) ft. Petar Veličković.
+- [OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks](https://arxiv.org/abs/2203.15209)
+- [Shift-Robust Node Classification via Graph Adversarial Clustering](https://arxiv.org/abs/2203.15802) ft. Jiawei Han.
+- [Mutual information estimation for graph convolutional neural networks](https://arxiv.org/abs/2203.16887)
+- [Graph-in-Graph (GiG): Learning interpretable latent graphs in non-Euclidean domain for biological and healthcare applications](https://arxiv.org/abs/2204.00323) ft. Michael Bronstein.
+
+🏐 Equivariance and 3D Graphs:
+- [Equivariant Diffusion for Molecule Generation in 3D](https://arxiv.org/abs/2203.17003) ft. Max Welling.
+- [3D Equivariant Graph Implicit Functions](https://arxiv.org/abs/2203.17178)
+
+📚 Libraries and Surveys:
+- [GNNkeras: A Keras-based library for Graph Neural Networks and homogeneous and heterogeneous graph processing](https://www.sciencedirect.com/science/article/pii/S2352711022000486) ft. Franco Scarselli.
+- [Graph Neural Networks in IoT: A Survey](https://arxiv.org/abs/2203.15935)
+
+🔨 Applications:
+- [Graph similarity learning for change-point detection in dynamic networks](https://arxiv.org/abs/2203.15470) ft. Xiowen Dong. 
+- [Multilingual Knowledge Graph Completion with Self-Supervised Adaptive Graph Alignment](https://arxiv.org/abs/2203.14987) ft. Yizhou Sun.
+- [A Simple Yet Effective Pretraining Strategy for Graph Few-shot Learning](https://arxiv.org/abs/2203.15936)
+- [Pretraining Graph Neural Networks for few-shot Analog Circuit Modeling and Design](https://arxiv.org/abs/2203.15913) ft. Pieter Abbeel.
