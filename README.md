@@ -1,6 +1,19 @@
 # Graph-Neural-Networks
 > Collect recent learning materials about GNNs, cutting-edge trends, etc. weekly update from the Graph Machine Learning channel in [Telegram](https://t.me/graphML) or other platforms.​ :sun_with_face: :running:
 
+### **May 2**
+**Fresh Picks from Arxiv**
+- Theory of Graph Neural Networks: Representation and Learning (https://arxiv.org/abs/2204.07697) ft. Stefanie Jegelka.
+- LiftPool: Lifting-based Graph Pooling for Hierarchical Graph Representation Learning (https://arxiv.org/abs/2204.12881)
+- PyGOD: A Python Library for Graph Outlier Detection (https://arxiv.org/abs/2204.12095)
+- Reinforced Causal Explainer for Graph Neural Networks (https://arxiv.org/abs/2204.11028)
+- Graph Neural Network based Agent in Google Research Football (https://arxiv.org/abs/2204.11142)
+- GUARD: Graph Universal Adversarial Defense (https://arxiv.org/abs/2204.09803)
+- DropMessage: Unifying Random Dropping for Graph Neural Networks (https://arxiv.org/abs/2204.10037)
+- Effects of Graph Convolutions in Deep Networks (https://arxiv.org/abs/2204.09297)
+- LEARNING HEURISTICS FOR A* (https://arxiv.org/pdf/2204.08938.pdf) ft. Petar Velickovic.
+- AZ-whiteness test: a test for uncorrelated noise on spatio-temporal graphs (https://arxiv.org/abs/2204.11135)
+
 ### **April 22** 
 **Can graph neural networks understand chemistry?** 
 - A talk by Dominique Beaini on their recent work and the [maze analogy](https://twitter.com/dom_beaini/status/1499019741234704385) for graph representation learning. 
